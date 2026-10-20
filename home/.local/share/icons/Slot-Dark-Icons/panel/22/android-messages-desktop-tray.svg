@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="android-messages-desktop-tray.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="17.204545"
+     inkscape:cx="12.874505"
+     inkscape:cy="6.5389696"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     style="fill:#f2f2f2;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 2.0429688,4 C 1.2403869,3.9989929 0.73781466,4.7653342 1.1386719,5.3789062 L 3.5019531,8.9882812 4,9.75 v 4.955078 C 4,16.530019 5.4443763,18 7.2382812,18 H 17.761719 C 19.555624,18 21,16.530019 21,14.705078 V 7.2949219 C 21,5.4699807 19.555624,4 17.761719,4 H 11.488281 7.2382812 6.765625 Z M 7.5,7 h 10 C 17.777,7 18,7.223 18,7.5 18,7.777 17.777,8 17.5,8 H 7.5 C 7.223,8 7,7.777 7,7.5 7,7.223 7.223,7 7.5,7 Z m 0,3 h 10 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 7.5 C 7.223,11 7,10.777 7,10.5 7,10.223 7.223,10 7.5,10 Z m 0,3 h 6 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -6 C 7.223,14 7,13.777 7,13.5 7,13.223 7.223,13 7.5,13 Z"
+     id="path1" />
+</svg>

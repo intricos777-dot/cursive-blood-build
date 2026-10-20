@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="-3 -3 22 22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="pcloud-sync.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.409091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dfdfdf; }
+.ColorScheme-Highlight { color:#4285f4; }
+</style>
+  </defs>
+  <path
+     style="fill:#f2f2f2;fill-opacity:1"
+     d="M 8 2 A 5 5 0 0 0 3.3964844 5.0488281 A 4 4 0 0 0 0 9 A 4 4 0 0 0 3.8085938 12.990234 L 3.8085938 13 L 4 13 L 8.0332031 13 A 4.5 4.5 0 0 1 8 12.5 A 4.5 4.5 0 0 1 12.5 8 A 4.5 4.5 0 0 1 15.693359 9.3320312 A 2.4761905 2.4761905 0 0 0 14.822266 8.4179688 A 2.5 2.5 0 0 0 15 7.5 A 2.5 2.5 0 0 0 12.578125 5.0039062 A 5 5 0 0 0 8 2 z M 6 5 L 7 5 L 9 5 L 10 5 L 10 6 L 10 7 L 10 8 L 9 8 L 7 8 L 7 11 L 6 11 L 6 8 L 6 7 L 6 6 L 6 5 z M 7 6 L 7 7 L 9 7 L 9 6 L 7 6 z"
+     id="path1" />
+  <path
+     style="fill:#f2f2f2;fill-opacity:1"
+     class=" "
+     d="M 14.25,9.4689111 A 3.5,3.5 0 0 0 9.4689111,10.75 3.5,3.5 0 0 0 10.75,15.531089 3.5,3.5 0 0 0 15.531089,14.25 3.5,3.5 0 0 0 14.25,9.4689111 Z m -1.825135,0.5362259 -0.04089,0.695825 -0.0176,0.307831 A 1.5,1.5 0 0 0 11.200962,11.75 1.5,1.5 0 0 0 11.012227,12.678461 l -0.886609,0.586433 A 2.5,2.5 0 0 1 10.334936,11.25 2.5,2.5 0 0 1 12.424865,10.005137 Z m 2.271625,1.311524 A 2.5,2.5 0 0 1 14.665064,13.75 2.5,2.5 0 0 1 13.025488,14.94139 l 0.06482,-1.065403 A 1.5,1.5 0 0 0 13.799038,13.25 a 1.5,1.5 0 0 0 0.0592,-1.379879 l 0.257789,-0.169159 z"
+     id="path2" />
+</svg>

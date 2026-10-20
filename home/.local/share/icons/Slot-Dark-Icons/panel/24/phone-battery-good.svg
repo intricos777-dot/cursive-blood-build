@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="2"
+   width="100%"
+   height="100%"
+   viewBox="-3 -3 22 22"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="phone-battery-good.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.409091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dfdfdf; }
+.ColorScheme-Highlight { color:#4285f4; }
+.ColorScheme-NeutralText { color:#ff9800; }
+.ColorScheme-PositiveText { color:#4caf50; }
+.ColorScheme-NegativeText { color:#f44336; }
+</style>
+  </defs>
+  <path
+     style="opacity:0.3;fill:#f2f2f2;fill-opacity:1"
+     d="m9.6 2.857c0-.209.17-.378.379-.378h4.972c.209 0 .379.169.379.378v10.85c0 .209-.17.378-.379.378h-4.972c-.209 0-.379-.169-.379-.378zm4.343-.051c.402 0 .729.327.729.73s-.327.729-.729.729c-.403 0-.73-.326-.73-.729s.327-.73.73-.73z"
+     id="path1" />
+  <path
+     style="fill:#f2f2f2;fill-opacity:1"
+     d="m 9.93,1.722 c -1,0 -1,1 -1,1 v 12 c 0,0 0,1 1,1 H 15 c 1,0 1,-1 1,-1 v -12 c 0,0 0,-1 -1,-1 z M 9.6,2.857 v 10.85 c 0,0.209 0.17,0.378 0.379,0.378 h 4.972 c 0.209,0 0.379,-0.169 0.379,-0.378 V 2.857 c 0,-0.209 -0.17,-0.378 -0.379,-0.378 H 9.979 C 9.77,2.479 9.6,2.648 9.6,2.857 Z m 2.332,9.866 h 1 c 0,0 0.5,0 0.5,0.5 0,0.5 -0.5,0.5 -0.5,0.5 h -1 c 0,0 -0.5,0 -0.5,-0.5 0,-0.5 0.5,-0.5 0.5,-0.5 z"
+     id="path2" />
+  <path
+     style="opacity:0.3;fill:#f2f2f2;fill-opacity:1"
+     d="m.572 5.364v8.788c0 .467.446 1.053 1 1.053h5.469c.554 0 1-.586 1-1.053v-8.788z"
+     id="path3" />
+  <path
+     style="fill:#f2f2f2;fill-opacity:1"
+     d="m 2.851,1.825 v -0.41 c 0,-0.627 0.509,-1.136 1.136,-1.136 h 0.687 c 0.627,0 1.136,0.509 1.136,1.136 v 0.41 h 0.806 c 1.125,0 2.037,0.912 2.037,2.036 v 9.824 c 0,1.125 -0.912,2.037 -2.037,2.037 H 2.045 C 0.92,15.722 0.008,14.81 0.008,13.685 V 3.861 c 0,-1.124 0.912,-2.036 2.037,-2.036 z m -0.806,0.7 h 4.571 c 0.738,0 1.337,0.598 1.337,1.336 v 9.824 c 0,0.738 -0.599,1.337 -1.337,1.337 H 2.045 c -0.738,0 -1.337,-0.599 -1.337,-1.337 V 3.861 c 0,-0.738 0.599,-1.336 1.337,-1.336 z"
+     id="path4" />
+</svg>

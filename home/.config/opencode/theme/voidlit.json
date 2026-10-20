@@ -1,0 +1,144 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "bg": "#050507",
+    "panel": "#050507",
+    "element": "#050507",
+    "border": "#3A3440",
+    "borderActive": "#C8102E",
+    "text": "#C8102E",
+    "muted": "#8B0000",
+    "accent": "#C8102E",
+    "accent2": "#FF1744",
+    "blood": "#C8102E",
+    "success": "#C8102E",
+    "warning": "#FF1744",
+    "info": "#C8102E",
+    "error": "#C8102E",
+    "comment": "#8B0000",
+    "keyword": "#C8102E",
+    "string": "#FF1744",
+    "number": "#C8102E",
+    "func": "#C8102E",
+    "type": "#FF1744",
+    "var": "#C8102E"
+  },
+  "theme": {
+    "primary": {
+      "dark": "accent",
+      "light": "accent"
+    },
+    "secondary": {
+      "dark": "accent2",
+      "light": "accent2"
+    },
+    "accent": {
+      "dark": "accent",
+      "light": "accent"
+    },
+    "error": {
+      "dark": "error",
+      "light": "error"
+    },
+    "warning": {
+      "dark": "warning",
+      "light": "warning"
+    },
+    "success": {
+      "dark": "success",
+      "light": "success"
+    },
+    "info": {
+      "dark": "info",
+      "light": "info"
+    },
+    "text": {
+      "dark": "text",
+      "light": "text"
+    },
+    "textMuted": {
+      "dark": "muted",
+      "light": "muted"
+    },
+    "background": {
+      "dark": "bg",
+      "light": "bg"
+    },
+    "backgroundPanel": {
+      "dark": "panel",
+      "light": "panel"
+    },
+    "backgroundElement": {
+      "dark": "element",
+      "light": "element"
+    },
+    "border": {
+      "dark": "border",
+      "light": "border"
+    },
+    "borderActive": {
+      "dark": "borderActive",
+      "light": "borderActive"
+    },
+    "borderSubtle": {
+      "dark": "element",
+      "light": "element"
+    },
+    "selection": {
+      "dark": "accent2",
+      "light": "accent2"
+    },
+    "syntaxComment": {
+      "dark": "comment",
+      "light": "comment"
+    },
+    "syntaxKeyword": {
+      "dark": "keyword",
+      "light": "keyword"
+    },
+    "syntaxString": {
+      "dark": "string",
+      "light": "string"
+    },
+    "syntaxNumber": {
+      "dark": "number",
+      "light": "number"
+    },
+    "syntaxFunction": {
+      "dark": "func",
+      "light": "func"
+    },
+    "syntaxType": {
+      "dark": "type",
+      "light": "type"
+    },
+    "syntaxVariable": {
+      "dark": "var",
+      "light": "var"
+    },
+    "inputBackground": {
+      "dark": "bg",
+      "light": "bg"
+    },
+    "InputBorder": {
+      "dark": "accent",
+      "light": "accent"
+    },
+    "InputBorderActive": {
+      "dark": "accent2",
+      "light": "accent2"
+    },
+    "inputPrompt": {
+      "dark": "accent",
+      "light": "accent"
+    },
+    "inputCursor": {
+      "dark": "accent",
+      "light": "accent"
+    },
+    "inputText": {
+      "dark": "text",
+      "light": "text"
+    }
+  }
+}

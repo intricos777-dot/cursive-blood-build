@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="-3 -3 22 22"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="superproductivity-tray-7.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.409091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <g
+     id="g3"
+     style="fill:#f2f2f2;fill-opacity:1">
+    <path
+       d="m6.748047 5a.73085587.79027464 0 0 0 -.748047.792969v4.416015a.73085587.79027464 0 0 0 1.095703.685547l3.539063-2.208984a.73085587.79027464 0 0 0 0-1.369141l-3.539063-2.210937a.73085587.79027464 0 0 0 -.347656-.105469z"
+       id="path1"
+       style="fill:#f2f2f2;fill-opacity:1" />
+    <path
+       opacity=".35"
+       d="m8 0c-4.4064334 0-8 3.5935666-8 8 0 4.406433 3.5935666 8 8 8 4.406433 0 8-3.593567 8-8 0-4.4064334-3.593567-8-8-8zm0 2c3.325553 0 6 2.6744469 6 6 0 3.325553-2.674447 6-6 6-3.3255531 0-6-2.674447-6-6 0-3.3255531 2.6744469-6 6-6z"
+       id="path2"
+       style="fill:#f2f2f2;fill-opacity:1" />
+    <path
+       d="m8 0v2a6 6 0 0 1 6 6 6 6 0 0 1 -4.753906 5.861328l.417968 1.962891a8 8 0 0 0 6.292969-8.660157 8 8 0 0 0 -7.957031-7.164062z"
+       id="path3"
+       style="fill:#f2f2f2;fill-opacity:1" />
+  </g>
+</svg>

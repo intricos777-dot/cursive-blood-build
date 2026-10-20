@@ -1,0 +1,43 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+name: blood
+description: Blood — black backgrounds, red blood text, no white. Cursive Great Vibes.
+
+colors:
+  # Blood-black background
+  background: "#050507"
+
+  # Blood red accents
+  ui_accent: "#C8102E"
+  banner_accent: "#C8102E"
+
+  # Red-tinted text hierarchy — no pure white
+  banner_title: "#C8102E"
+  banner_text: "#C8102E"
+  ui_text: "#C8102E"
+  banner_dim: "#8B0000"
+  banner_border: "#3A3440"
+  ui_border: "#3A3440"
+
+  # Semantic status
+  ui_ok: "#FF1744"
+  ui_warn: "#FF1744"
+  ui_error: "#C8102E"
+
+  # CLI / TUI chrome
+  prompt: "#C8102E"
+  input_rule: "#C8102E"
+  response_border: "#C8102E"
+  status_bar_bg: "#050507"
+  status_bar_text: "#C8102E"
+  status_bar_good: "#FF1744"
+  status_bar_warn: "#FF1744"
+  status_bar_critical: "#C8102E"
+  session_label: "#C8102E"
+  session_border: "#3A3440"
+
+branding:
+  agent_name: Hermes Agent
+  prompt_symbol: "❯"
+  help_header: "Commands"
+
+tool_prefix: "┊"

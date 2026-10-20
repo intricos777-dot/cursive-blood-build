@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="2"
+   width="100%"
+   height="100%"
+   viewBox="-3 -3 22 22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="smartphoneconnected.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.409091"
+     inkscape:cx="11.014531"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dfdfdf; }
+.ColorScheme-Highlight { color:#4285f4; }
+.ColorScheme-NeutralText { color:#ff9800; }
+.ColorScheme-PositiveText { color:#4caf50; }
+.ColorScheme-NegativeText { color:#f44336; }
+</style>
+  </defs>
+  <path
+     style="opacity:0.3;fill:#f2f2f2;fill-opacity:1"
+     d="m4.047 2.135c0-.209.17-.378.379-.378h7.148c.209 0 .379.169.379.378v11.849c0 .209-.17.378-.379.378h-7.148c-.209 0-.379-.169-.379-.378zm6.519-.051c.402 0 .729.327.729.73s-.327.729-.729.729c-.403 0-.73-.326-.73-.729s.327-.73.73-.73z"
+     id="path1" />
+  <path
+     style="fill:#f2f2f2;fill-opacity:1"
+     d="m 4.377,1 c -1,0 -1,1 -1,1 v 12 c 0,0 0,1 1,1 h 7.246 c 1,0 1,-1 1,-1 V 2 c 0,0 0,-1 -1,-1 z m -0.33,1.135 v 11.849 c 0,0.209 0.17,0.378 0.379,0.378 h 7.148 c 0.209,0 0.379,-0.169 0.379,-0.378 V 2.135 c 0,-0.209 -0.17,-0.378 -0.379,-0.378 H 4.426 c -0.209,0 -0.379,0.169 -0.379,0.378 z M 7.5,13 h 1 C 8.5,13 9,13 9,13.5 9,14 8.5,14 8.5,14 h -1 C 7.5,14 7,14 7,13.5 7,13 7.5,13 7.5,13 Z"
+     id="path2" />
+</svg>

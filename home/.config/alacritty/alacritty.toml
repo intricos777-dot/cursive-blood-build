@@ -1,0 +1,103 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+[colors.primary]
+background = "#050507"
+foreground = "#C8102E"
+dim_foreground = "#8B0000"
+bright_foreground = "#FF1744"
+
+[colors.cursor]
+text = "#050507"
+cursor = "#C8102E"
+
+[colors.vi_mode_cursor]
+text = "#050507"
+cursor = "#C8102E"
+
+[colors.search.matches]
+foreground = "#050507"
+background = "#C8102E"
+
+[colors.search.focused_match]
+foreground = "#050507"
+background = "#FF1744"
+
+[colors.hints.start]
+foreground = "#050507"
+background = "#C8102E"
+
+[colors.hints.end]
+foreground = "#050507"
+background = "#FF1744"
+
+[colors.line_indicator]
+foreground = "None"
+background = "None"
+
+[colors.footer_bar]
+foreground = "#050507"
+background = "#C8102E"
+
+[colors.normal]
+black = "#050507"
+red = "#C8102E"
+green = "#C8102E"
+yellow = "#C8102E"
+blue = "#C8102E"
+magenta = "#C8102E"
+cyan = "#C8102E"
+white = "#C8102E"
+
+[colors.bright]
+black = "#050507"
+red = "#FF1744"
+green = "#FF1744"
+yellow = "#FF1744"
+blue = "#FF1744"
+magenta = "#FF1744"
+cyan = "#FF1744"
+white = "#FF1744"
+
+[colors.dim]
+black = "#050507"
+red = "#8B0000"
+green = "#8B0000"
+yellow = "#8B0000"
+blue = "#8B0000"
+magenta = "#8B0000"
+cyan = "#8B0000"
+white = "#8B0000"
+
+[font]
+size = 16
+
+[font.normal]
+family = "Great Vibes"
+style = "Regular"
+
+[font.bold]
+family = "Great Vibes"
+style = "Bold"
+
+[font.italic]
+family = "Great Vibes"
+style = "Italic"
+
+[window]
+opacity = 1.0
+padding = { x = 4, y = 4 }
+decorations = "full"
+startup_mode = "Windowed"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+unfocused_hollow = true
+
+[mouse]
+hide_when_typing = true
+
+[terminal]
+osc52 = "CopyPaste"

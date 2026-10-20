@@ -1,0 +1,12 @@
+# never track live state / machine-specific artifacts
+*.bak
+*.log
+*.tmp
+*.db
+*.db-wal
+*.db-shm
+node_modules/
+tool-output/
+log/
+repos/
+.cursive-blood-backup/

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="network-cellular-signal-excellent-secure-symbolic.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="31.541667"
+     inkscape:cx="12.015852"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     color="#000"
+     d="M20.5 6c-.277 0-.5.223-.5.5v4.69c.314-.115.648-.19 1-.19.353 0 .686.075 1 .19V6.5c0-.277-.223-.5-.5-.5zm-4 3c-.277 0-.5.223-.5.5v8c0 .277.223.5.5.5h.5v-2.5c0-.583.44-1.15.803-1.332.103-.051.106-.022.197-.047V9.5c0-.277-.223-.5-.5-.5zM1.469 10L1 11l3 3v4h1v-4l3-3-.375-1zm.906 1H4v1.625zM5 11h1.625L5 12.625zm7.5 1c-.277 0-.5.223-.5.5v5c0 .277.223.5.5.5h1c.277 0 .5-.223.5-.5v-5c0-.277-.223-.5-.5-.5zm8.5 0c-1.108 0-2 .91-2 2.031V15h-.5s-.5 0-.5.5v3s0 .5.5.5h5c.5 0 .5-.5.5-.5v-3c0-.5-.5-.5-.5-.5H23v-.969c0-1.12-.892-2.031-2-2.031zm0 1c.554 0 1 .442 1 1v1h-2v-1c0-.558.446-1 1-1zM8.5 15c-.277 0-.5.223-.5.5v2c0 .277.223.5.5.5h1c.277 0 .5-.223.5-.5v-2c0-.277-.223-.5-.5-.5z"
+     fill="#dedede"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal;marker:none;fill:#f2f2f2;fill-opacity:1"
+     id="path1" />
+</svg>
